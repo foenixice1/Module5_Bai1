@@ -1,0 +1,10 @@
+Angular : là một framwork để phát triển font-end, web-app.Để tăng trải nghiệm ng dùng.
+
+Promise : là để xử lý kết quả của một hành động cụ thể, kết quả của mõi hành động sẽ là thành công hoặc thất bại.
+Có 3 trạng thái của promise :
+    - Fulfilled : hành động xử lý xong và thành công
+    - Rejected : hành động xử lý xong và thất bại
+    - Pending : hành động đang chờ xử lý hoặc bị từ chối
+
+Thenable trong promise : là một phương thức ghi nhận kết quả của trạng thái(thành công hoặc thất bại)
+
